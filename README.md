@@ -1,6 +1,5 @@
 # FileSpider
 
-***
 
 This script crawls through the given directory and copies files and folders.
 
