@@ -3,7 +3,7 @@
 
 This script crawls through the given directory and copies files and folders.
 
- > **Run the *fileSpider.py* script to start the program.**
+> **Run the *fileSpider.py* script to start the program.**
 
 ## What does it do?
 
